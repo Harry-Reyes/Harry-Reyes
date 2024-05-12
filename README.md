@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Harry-Reyes
 
 - 👀 I’m interested in game developing, programming, and other latest computer technologies.
-- 🌱 I’m currently learning at La Verdad Christian College - Apalit, Pampanga as a BSIS student.
+- 🌱 BSIS student at La Verdad Christian College.
 <!-- - 📫 You can reach me via email: warsoulonwork3@gmail.com -->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
