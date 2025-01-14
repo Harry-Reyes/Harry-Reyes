@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @Harry-Reyes
 
-- 👀 I’m interested in game developing, programming, and other latest computer technologies.
+- 👀 I’m interested in game developing, and computer programming.
 - 🌱 BSIS student at La Verdad Christian College.
 <!-- - 📫 You can reach me via email: warsoulonwork3@gmail.com -->
 <!--- - 💞️ I’m looking to collaborate on ... --->
